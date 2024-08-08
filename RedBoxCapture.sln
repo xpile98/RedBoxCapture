@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBoxCapture", "RedBoxCapture.csproj", "{5ADA3BD4-8205-4D3A-87B9-7C3C9CC5DD13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ADA3BD4-8205-4D3A-87B9-7C3C9CC5DD13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADA3BD4-8205-4D3A-87B9-7C3C9CC5DD13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ADA3BD4-8205-4D3A-87B9-7C3C9CC5DD13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ADA3BD4-8205-4D3A-87B9-7C3C9CC5DD13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3EC223A-A77C-4D21-82AE-065D49C89A08}
+	EndGlobalSection
+EndGlobal
